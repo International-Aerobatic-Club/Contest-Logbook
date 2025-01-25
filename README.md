@@ -1,5 +1,5 @@
 # README
-This project is a replacement for [iaccdb](https://iaccdb.iac.org).
+This project is a replacement for the IAC contest database: [iaccdb](https://iaccdb.iac.org).
 
 ## Goals
 - Modern UI
@@ -9,5 +9,5 @@ This project is a replacement for [iaccdb](https://iaccdb.iac.org).
   - Ruby 3.4
   - Hotwire/Stimulus
 
-## Author
-DJ Molny, djmolny@gmail.com
+## Author(s)
+- DJ Molny, djmolny@diligentarts.com
