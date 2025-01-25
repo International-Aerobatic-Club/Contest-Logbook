@@ -8,7 +8,6 @@
 /.bundle
 
 # Ignore IDE config.
-/.idea
 /.idea/*
 
 # Ignore all environment files.
